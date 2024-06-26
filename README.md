@@ -2,9 +2,10 @@
 <h1 align="center">Hi 👋, I'm Sneha</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <!--<img align ="right" width ="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="animated gif">-->
-- 🔭 I’m currently working on **Web development projects**
 
-- 👨‍💻 All of my projects are available at **https://github.com/SNH078**
+- 🔭 I’m currently working on Web development projects
+- 👨‍💻 I'm always eager to learn and explore new skills
+- 🧩 Looking forward to collaborating on amazing projects !
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/24996296/yvsnh115577" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/24996296/yvsnh115577" height="30" width="40" /></a>
@@ -17,6 +18,6 @@
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=snh078&show_icons=true&locale=en&layout=compact" alt="snh078" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snh078&show_icons=true&locale=en" alt="snh078" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=snh078&show_icons=true&locale=en" alt="snh078" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snh078&" alt="snh078" /></p>-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=snh078&" alt="snh078" /></p>
