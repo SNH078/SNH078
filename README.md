@@ -1,6 +1,6 @@
 <!--![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)-->
 <h1 align="center">Hi 👋, I'm Sneha</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<!-- <h3 align="center">A passionate Web developer from India</h3> -->
 <!--<img align ="right" width ="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="animated gif">-->
 
 - 🔭 I’m currently working on Full stack Web development projects (PERN)(MERN)
