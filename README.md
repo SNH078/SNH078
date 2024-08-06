@@ -3,7 +3,7 @@
 <!-- <h3 align="center">A passionate Web developer from India</h3> -->
 <!--<img align ="right" width ="400" src="https://cdn.dribbble.com/users/1364029/screenshots/16093268/media/68e82a7fb4904614a9066d6b540c14b2.gif" alt="animated gif">-->
 
-- 🔭 I’m currently working on Full stack Web development projects (PERN)(MERN)
+- 🔭 I’m currently working on Full stack Web development projects 
 - 👨‍💻 I'm always eager to learn and explore new skills
 - 🧩 Looking forward to collaborating on amazing projects !
 <h3 align="left">Connect with me:</h3>
